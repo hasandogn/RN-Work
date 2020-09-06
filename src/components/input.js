@@ -8,7 +8,8 @@ import {
   size,
   space,
   typography,
-  borderRadius
+  borderRadius,
+  shadow,
 } from 'styled-system';
 
 const Input = styled(TextInput).attrs(props => ({
@@ -19,7 +20,8 @@ const Input = styled(TextInput).attrs(props => ({
         typography,
         color,
         size,
-        space
+        space,
+        shadow,
     )
 );
 

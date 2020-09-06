@@ -7,7 +7,7 @@ const colors = {
     light:"#E8EAED"
 }
 
-const radioss = {
+const radii = {
     normal: 8,
     full: 9999
 }

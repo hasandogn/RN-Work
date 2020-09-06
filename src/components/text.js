@@ -14,7 +14,7 @@ const Text = styled(T)(
         color, 
         size, 
         space
-        )
+    )
 );
 
 export default Text;
