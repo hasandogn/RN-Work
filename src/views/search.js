@@ -1,5 +1,6 @@
 import * as React from 'react';
 import {Button, View} from 'react-native';
+import {Content, Text} from 'native-base'
 
 import Box from '../components/box';
 import {Logo} from '../components/icons';
